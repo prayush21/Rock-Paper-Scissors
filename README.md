@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A basic game of all time.
+Can this game BE any more basic?
